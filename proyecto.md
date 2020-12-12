@@ -1,9 +1,9 @@
 # Equipo 06
 ## Integrantes
 
-**Olvera Martínez Jennifer Erzsebet**
-
 **García Gómez Christian Rodrigo**
+
+**Olvera Martínez Jennifer Erzsebet**
 
 **Rodríguez Ferrer Azul Itania**
 
