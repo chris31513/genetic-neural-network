@@ -35,6 +35,16 @@ A partir de una lista que contiene SNPs, podemos construir una red neuronal que 
 
 # Métodos
 
+Para realizar la red neuronal, utilizamos el archivo de datos genéticos de ManuSporny, que contiene 
 
+Estos datos fueron proprocionados por la empresa 23andme, quienes extrajeron el DNA de Manus a partir de una muestra de saliva que fue colocada en un chip de genotipado de Illumina OmniExpress Plus Genotyping, que permite detectar alrededor de un millón de marcadores genéticos. Estos marcadores genéticos, identifica características como el color de ojos, el color de cabello o si tiene mayor riesgo a tener diabetes. 
+
+El archivo contiene filas que corresponden a los SNPs y cuatro columnas que clasifica el resto de la información:
+poner imagen
+
+- Rsid: Es una marca que permite identificar a cada SNP. 
+- Cromosoma: El número de cromosoma en donde se encuentra el SNP. 
+- Posición: Es la posición de la secuencia de DNA en la que se encontró el cambio. 
+- Genotipo: Es la variación de un par de bases en un gen en especial, respecto a un DNA de referencia ?
 
 
