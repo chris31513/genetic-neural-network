@@ -25,7 +25,7 @@ Como hemos visto, el genoma puede ser representado como un conjunto de datos, po
 
 
 # Objetivo
-- **Entrenar una red neuronal que sea capaz de clasificar los información genética (SNPs) en genotipos **- 
+- Entrenar una red neuronal que sea capaz de clasificar los información genética (SNPs) en genotipos - 
 
 # Hipótesis
 
