@@ -5,6 +5,10 @@
 
 **García Gómez Christian Rodrigo**
 
+**Rodríguez Ferrer Azul Itania**
+
+**Ruiz López Jorge Antonio**
+
 # Redes neuronales
 
 # Introducción  
