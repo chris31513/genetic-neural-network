@@ -23,7 +23,8 @@ Si observamos a nuestro alrededor, podremos darnos cuenta que todas las personas
 Los SNPs son sitios del genoma en los que se producen variaciones en un solo par de bases, es decir, a pesar de que los seres humanos compartimos gran parte de la secuencia de ADN, habrá sitios en donde una persona pueda tener una C y otra puede tener una T. Estas diferencias, van a pemritir una expresión del [genotipo](https://www.genome.gov/es/genetics-glossary/Genotipo#:~:text=Un%20genotipo%20es%20la%20colecci%C3%B3n,prote%C3%ADnas%20y%20mol%C3%A9culas%20de%20ARN), en donde los genes son utilizados para fabricar proteínas o moléculas de ADN. 
 Su expresión contribuye a observar diferentes caracteristicas entre los individuos ([fenotipo](https://www.genome.gov/es/genetics-glossary/Fenotipo)), por ejemplo, que una persona tenga el cabello lacio y otra lo tenga ondulado. 
 
-Las redes neuronales son un conjunto de algoritmos y heurísticas capaces de predecir, clasificar y distinguir datos. 
+Una red neuronal, es un modelo matemático que trata de simular el método de aprendizaje que se lleva a cabo en el cerebro. Cada red está compuesta por neuronas que, a su vez, están conectadas entre ellas.
+
 
 Como hemos visto, el genoma puede ser representado como un conjunto de datos, por lo que podemos construir una red neuronal capaz de interpretar y clasificar esos datos en diferentes clases de genotipos.
 
