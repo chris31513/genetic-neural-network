@@ -2,15 +2,15 @@
 
 ## Nombres:
 
-**Aldo GS ()**
+**Aldo Iván García Salman**
 
 **Azul RF ()**
 
-**Christian GG ()**
+**Christian Rodrigo García Gómez**
 
 **Jennifer OM ()**
 
-**Jorge RL ()**
+**Jorge Antonio Ruiz López**
 
 **Luis SL ()**
 
