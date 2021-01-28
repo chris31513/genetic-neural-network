@@ -2,21 +2,21 @@
 
 ## Nombres:
 
-**Aldo Iván García Salman**
+**Aldo GS ()**
 
 **Azul RF ()**
 
-**Christian Rodrigo García Gómez**
+**Christian GG ()**
 
 **Jennifer OM ()**
 
-**Jorge Antonio Ruiz López**
+**Jorge RL ()**
 
 **Luis SL ()**
 
 # Introducción
 
-El [genoma humano](https://www.genome.gov/es/genetics-glossary/Genoma) son un conjunto de instrucciones que se encuentran codificadas en bases nitrogenadas (A, C, T, G) y que componen a nuestro ADN, el cual está empaquetado en 23 cromosomas, en el núcleo de nuestras células. 
+El [genoma humano](https://www.genome.gov/es/genetics-glossary/Genoma) son un conjunto de instrucciones, que se encuentran codificadas en bases nitrogenadas (A, C, T, G) y que componen a nuestro ADN, el cual está empaquetado en 23 cromosomas en el núcleo de nuestras células. 
 
 Si observamos a nuestro alrededor, podremos darnos cuenta que todas las personas son muy diferentes entre sí; esto se debe al [polimorfismo de nucleótido único](https://www.genome.gov/es/genetics-glossary/Polimorfismos-de-nucleotido-%C3%BAnico) (SNP).
 
@@ -38,12 +38,15 @@ Siendo ai el valor de activación de la neurona.
 
 - Funciones de activación
 
-Dentro del mundo de la probabilidad y la estadistica, existen diferentesfunciones que son usadas para representar la activaci ́on de las neuronas.La funci ́on usada en nuestra red es la funci ́on ReLu, que es m ́ascomunmente usada en redes convolucionales.  Sin embargo en nuestrosexperimentos result ́o ser la m ́as eficaz.Su formulaci ́on matem ́atica es la siguiente:
+Dentro del mundo de la probabilidad y la estadistica, existen diferentes funciones que son usadas para representar la activación de las neuronas. La función usada en nuestra red es la función ReLu, que es más comunmente usada en redes convolucionales.  Sin embargo en nuestros experimentos resultó ser la más eficaz. Su formulación matemática es la siguiente:
+
+
+- Redes clasificadoras
+
+Las redes clasificadoras tienen como salida un vector de probabilidades que representan la probabilidad de que la entrada X este en la clase Yi.  Para que sea válida la probabilidad, es necesario normalizar cada entrada del vector para que la suma de sus entradas sea 1.  Para esto, ocupamos la función softmax. 
 
 
 Como hemos visto, el genoma puede ser representado como un conjunto de datos, por lo que podemos construir una red neuronal capaz de interpretar y clasificar esos datos en diferentes clases de genotipos.
-
-
 
 # Objetivo
 
