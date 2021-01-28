@@ -32,7 +32,7 @@ Una red neuronal, es un modelo matemático que trata de simular el método de ap
 Cada neurona es una función matemática aplicada a una combinación lineal de las entradas xi con los pesos wi, cada peso está asociado a una conexión con la neurona ni. 
 Matemáticamente la neurona se vería así:
 
-a_i = f(\sum w_ix_i)
+`$ a_i = f(\sum w_ix_i)$`
 
 Siendo ai el valor de activación de la neurona.
 
