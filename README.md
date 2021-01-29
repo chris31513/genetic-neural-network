@@ -1,8 +1,8 @@
-# Clasificación de genotipos del ser humano, a partir de una red neuronal
+# Clasificación de genotipos de Homo Sapiens, a partir de una red neuronal
 
 ## Nombres:
 
-**Aldo Iván García Salman ()**
+**Aldo Iván García Salman (algoig)**
 
 **Azul RF (azulytania)**
 
