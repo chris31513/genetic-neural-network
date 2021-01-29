@@ -2,17 +2,17 @@
 
 ## Nombres:
 
-**Aldo Iván García Salman**
+**Aldo Iván García Salman ()**
 
-**Azul RF ()**
+**Azul RF (azulytania)**
 
-**Christian Rodrigo García Gómez**
+**Christian Rodrigo García Gómez (chris31513)**
 
 **Jennifer OM (Erzsbet-code)**
 
-**Jorge Antonio Ruiz López**
+**Jorge Antonio Ruiz López (jorgeruiz11)**
 
-**Luis SL ()**
+**Luis SL (enriquesanlar)**
 
 # Introducción
 
@@ -59,6 +59,7 @@ Como hemos visto, el genoma puede ser representado como un conjunto de datos, po
 
 Los SNPs pueden utilizarse en la construcción de relaciones de parentesco de genes específicos (filogenias)  a lo largo de la historia evolutiva.
 
+Se ha visto que los SNPs están implicados en diversas enfermedades multifactoriales por lo que actualmente, estos datos se utilizan para el desarrollo de algoritmos capaces de clasificar enfermedades complejas de manera eficiente.
 
 # Conclusiones
 
@@ -67,10 +68,17 @@ Las redes neuronales permiten clasificar genotipos de interés evolutivo y médi
 # Referencias 
 
 [] Austin, C. (2020). Genotipo. National Human Genome Research Institute. Recuperado el 10 de diciembre de 2020 de https://www.genome.gov/es/genetics-glossary/Genotipo#:~:text=Un%20genotipo%20es%20la%20colecci%C3%B3n,prote%C3%ADnas%20y%20mol%C3%A9culas%20de%20ARN
+
 [] Austin, C. (2020). Fenotipo. National Human Genome Research Institute. Recuperado el 10 de diciembre de 2020 de https://www.genome.gov/es/genetics-glossary/Fenotipo 
+
 [] Collins, F. (2020). Genoma. National Human Genome Research Institute. Recuperado el 10 de diciembre de 2020 de https://www.genome.gov/es/genetics-glossary/Genoma
+
 [] Collins, F. (2020). Polimorfismo de nucleótido único. National Human Genome Research Institute. Recuperado el 10 de diciembre de 2020 de https://www.genome.gov/es/genetics-glossary/Polimorfismos-de-nucleotido-%C3%BAnico
+
 [] López, G. y Serrano, H. (). Aplicación de metodologías moleculares en el estudio de la evolución humana:SNP. Ciencias Genómicas. Recuperado el 22 de enero de 2020 de http://www.divulgacion.ccg.unam.mx/webfm_send/8581 
+
+[] Rasmussen, M., Li, Y., Lindgreen, S. et al. (2010). Ancient human genome sequence of an extinct Palaeo-Eskimo. Nature 463, 757–762. https://doi.org/10.1038/nature08835
+
 [] Romano, J. H., Martínez, J. y Valverde, V. (2009). Polimorfismos reguladores y su participación en la patogenia de enfermedades complejas en la era posgenómica. Salud Pública de México. 51(3): S455-S462
 
 
