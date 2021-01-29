@@ -1,4 +1,4 @@
-# Clasificación de genotipos de Homo Sapiens, a partir de una red neuronal
+# Clasificación de genotipos de *Homo Sapiens*, a partir de una red neuronal
 
 ## Nombres:
 
